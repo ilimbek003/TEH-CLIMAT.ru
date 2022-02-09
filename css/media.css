@@ -1,0 +1,8 @@
+@media(max-width: 768px) {
+     .nav-items {
+         display: none;
+     }
+    .burger-menu{
+        display: flex;
+    }
+}
